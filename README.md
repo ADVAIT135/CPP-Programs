@@ -1,10 +1,10 @@
 # CPP-Programs
 
-A collection of C++ programs for practice, learning, and demonstration purposes.
+A collection of C and C++ programs for practice, learning, and demonstration purposes.
 
 ## Overview
 
-This repository contains a variety of C++ programs that cover fundamental concepts, data structures, algorithms, and problem-solving techniques. The programs are organized for easy navigation and use, making this repository a useful resource for students, educators, and anyone interested in improving their C++ programming skills.
+This repository contains a variety of C++ programs that cover fundamental concepts, data structures, algorithms, and problem-solving techniques. The programs are organized for easy navigation and use, making this repository a useful resource for students, educators, and anyone interested in improving their C and C++ programming skills.
 
 ## Features
 
@@ -34,7 +34,7 @@ To use or run the programs in this repository:
 
 3. **Explore the Code**
 
-   Browse through the folders and files to discover different types of C++ programs.
+   Browse through the folders and files to discover different types of C and  C++ programs.
 
 ## Directory Structure
 
